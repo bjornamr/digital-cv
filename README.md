@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Bjørnar Moe Remmen
 
-You can use the [editor on GitHub](https://github.com/bjornamr/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Software engineer with experience with general backend work and machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+\[Application Engineer\] - @ [Microchip](https://www.capgemini.com/no-no/) _(Aug 2020 - present)_
+\[Data Scientist\] - @ [Capgemini](https://www.capgemini.com/no-no/) _(Jan 2019 - Aug 2020)_
+\[Software Engineer\] - @ [Making Waves](https://www.makingwaves.com/) _(Aug 2017 - Dec 2018)_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Data Scientist**
 
-- Bulleted
-- List
+**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Competitions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bjornamr/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
