@@ -10,13 +10,3 @@ Software engineer with experience with general backend work and machine learning
 
 **\[Software Engineer\]** - @ [Making Waves](https://www.makingwaves.com/) _(Aug 2017 - Dec 2018)_
 
-
-
-**Data Scientist**
-
-**
-
-
-
-## Competitions
-
