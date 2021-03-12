@@ -2,6 +2,5 @@ theme: minima
 title: Bjørnar Moe Remmen
 logo: files/pictures/face_gray_small.jpg
 minima:
-  date_format: "%b %-d, %YYYY"
   social_links:
     linkedin: bjornarremm
