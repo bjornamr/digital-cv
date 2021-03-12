@@ -1,6 +1,3 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Bjørnar Moe Remmen
 logo: files/pictures/face_gray_small.jpg
-minima:
-  social_links:
-    linkedin: bjornarremm
